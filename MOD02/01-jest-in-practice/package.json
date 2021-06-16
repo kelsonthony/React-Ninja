@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "jest-cli": "^27.0.4"
+  },
+  "dependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.4",
+    "babel-jest": "^27.0.2"
+  }
+}
